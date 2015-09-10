@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>faspay</name>
+	<displayName><![CDATA[Faspay]]></displayName>
+	<version><![CDATA[0.97]]></version>
+	<description><![CDATA[Faspay Payment Aggregator - Transaction secure, anytime, and anywhere]]></description>
+	<author><![CDATA[MediaIndonusa.com]]></author>
+	<tab><![CDATA[payments_gateways]]></tab>
+	<confirmUninstall><![CDATA[Are you sure you want to delete faspay account ?]]></confirmUninstall>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+	<limited_countries>id</limited_countries>
+</module>
